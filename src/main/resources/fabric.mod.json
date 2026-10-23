@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "firewandcoffee",
+  "version": "${version}",
+  "name": "Fire Wand Powers + Coffee Mod",
+  "description": "Experimental Fabric mod project with fire magic and coffee.",
+  "environment": "*",
+  "entrypoints": { "main": ["br.firewandcoffee.FireWandCoffee"] },
+  "depends": { "fabricloader": ">=0.19.5", "minecraft": "~26.3", "java": ">=25", "fabric-api": "*" }
+}
